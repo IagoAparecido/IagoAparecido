@@ -7,4 +7,4 @@ Obrigado pela visita 😊, abaixo algumas coisas sobre mim!
 - ⚡ A pouco tempo nessa área de desenvolvimento, mas estou confiante que é o meu caminho.
 - 📫 How to reach me: Me manda um email...
 
-👋👋👋👋            <a href="https://instagram.com">Test</a>
+ <a href="https://instagram.com/iago2p">Instagram</a> | <a href="https://linkedin.com/">Linkedin</a>
