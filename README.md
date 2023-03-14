@@ -8,10 +8,10 @@ Obrigado pela visita 😊, abaixo algumas coisas sobre mim!
 
 Habituado com:
 
-![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+|![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+|![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+|![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+|![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
