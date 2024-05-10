@@ -1,10 +1,9 @@
 ### Hi there 👋
 Obrigado pela visita 😊, abaixo algumas coisas sobre mim!
 
-- 🔭 Atualmente sou estagiário de desenvolvimento na Faculdade Fasipe.
+- 🔭 Atualmente trabalhando como desenvolvedor Full Stack na Faculdade Fasipe.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, 5° Semestre.
 - 🤔 Buscando sempre aprender e melhorar.
-- ⚡ A pouco tempo nessa área de desenvolvimento, mas estou confiante e sei que é o meu caminho.
 
 Habituado com:
 
