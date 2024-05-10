@@ -9,8 +9,14 @@ Obrigado pela visita 😊, abaixo algumas coisas sobre mim!
 Habituado com:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+|![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=0D1117)
+|![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 |![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 |![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+|![Spring](https://img.shields.io/badge/-JAVA-6DB33F?style=for-the-badge&logo=springboot&labelColor=0D1117)
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
