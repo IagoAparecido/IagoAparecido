@@ -1,8 +1,8 @@
 ### Hi there 👋
 Obrigado pela visita 😊, abaixo algumas coisas sobre mim!
 
-- 🔭 Atualmente trabalhando como desenvolvedor Full Stack na Faculdade Fasipe.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, 5° Semestre.
+- 🔭 Atualmente trabalhando como desenvolvedor back-end na SpetraX.
+- 🌱 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🤔 Buscando sempre aprender e melhorar.
 
 Habituado com:
